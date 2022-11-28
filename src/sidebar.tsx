@@ -9,7 +9,7 @@ export function Sidebar() {
         width: 100,
         x: 0,
         y: 0,
-        props: {}
+        props: {text: "Shortcut", color: "#e8b797", shortcut: true}
       }
     ]);
   };
